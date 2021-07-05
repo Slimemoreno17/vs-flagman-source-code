@@ -1,0 +1,13 @@
+		{
+			case 'fear' | 'schizophrenia': 
+			{
+				curStage = 'flagstreet-11';
+
+				var bg:FlxSprite = new FlxSprite(-2271,-7084).loadGraphic(Paths.image('flagman/Flagstreet'));
+				add(bg);
+				bg.active = false;
+				bg.updateHitbox();
+				bg.antialiasing = true;
+				bg.scrollFactor.set(0.9, 0.9);
+
+			}

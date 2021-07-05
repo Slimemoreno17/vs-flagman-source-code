@@ -1,0 +1,11 @@
+:BFTalk:beep bap?
+:flg:...
+:GFTalk:Nope. He stills mute.
+:BFTalk:Oof...
+:BFTalk:Ok one last try, if he doesn't do anything we leave.
+:GFTalk:Right.
+:GFTalk:You heard that, weird man?
+:flg:-
+:flg:*flagman inserts a weird CD into the speakers*
+:GFTalk:Huh?
+:GFTalk:Why do i hear boss music?
